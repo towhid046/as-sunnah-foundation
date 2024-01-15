@@ -1,0 +1,250 @@
+
+.social_icon{
+    list-style: none;
+    text-decoration: none;
+
+}
+.social_icon li{
+    display: inline-block;
+}
+.social-icon{}
+.social-icon ul{}
+.social-icon ul li{
+    padding: 5px;
+
+}
+.social-icon ul li a{
+font-size: 18px;
+font-weight: bolder;
+}
+.social-icon ul li:nth-child(4){
+    margin-right: 10px;
+}
+.social-icon ul li a:hover{}
+/* Header section */
+/* Manu section */
+.manu-section{
+    background: rgb(10, 59, 30);
+    height: 40px;
+    width: auto;
+}
+.manu-section ul{
+   
+
+}
+.manu-section ul li{
+    display: inline-block;
+    padding: 0 18px;
+    line-height: 40px;
+}
+.manu-section ul li a{
+    color: #fff;
+    font-size: 14.5px;
+    text-decoration: none;
+     line-height: 40px;
+     transition: .5s;
+}
+.manu-section ul li a:hover{
+    color: #008e48;
+}
+/* Donate-section */
+.Donate-section{
+    background: #f0eef0;
+}
+.Donate-section .cursor-00{
+cursor: pointer;
+opacity: .7;
+}
+/* Slider-section */
+.Slider-section{
+  background: #f0eef0;
+    
+}
+/* Banner section */
+.Banner-text {}
+.bn-text h3 {
+  
+}
+.bbn{
+    border-bottom: 3px solid rgb(197, 197, 197) ;
+    margin: 15px 0;
+}
+.bt{
+    font-size: 15px ;
+    letter-spacing: .4px;
+}
+.imagggg img{
+    width: 370px;
+    height: auto;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+.bn-text ul{
+   list-style: none;
+}
+.bn-text ul li{
+  
+}
+.bn-text ul li a{
+    text-decoration: none;
+    color: #008e48;
+}
+.bn-text ul li a:hover{}
+.bn-text span{
+    margin-left: -18px;
+    font-size: 10px;
+   
+}
+/* Let's-section */
+.bgg{
+    background: #f0eef0;
+}
+.h44{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.ww-100 .cardd{
+    width: 100%;
+    height: auto;
+    background: #fafafa;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.cardd img{
+    max-width: 100%;
+    border-radius: 5px 5px 0 0;
+}
+.pll{
+    
+}
+/* news-section */
+.carder{
+   cursor: pointer;
+   width: 100%;
+}
+.carder img{
+    max-width: 90%;
+    height: 300px;
+    border-radius: 5px;
+}
+.ttl{}
+.ttl p{
+    font-size: 13px;
+}
+.ttl h6{
+    font-size: 15.5px;
+    margin-top: -10px;
+}
+/* Project-section */
+.carrd{
+    background: linear-gradient(to bottom, #027e7e, #009999);
+    border-radius: 10px;
+}
+.carrd h1{
+    font-size: 42px;
+    height: 120px;
+}
+.carrd p{
+    font-size: 18.5px;
+    height: 210px;
+   
+}
+.bggg{
+    background: #008e48 !important;
+    border: 1px solid #008e48;
+    font-size: 18px !important;
+
+}
+/* Video section */
+.pp{
+    font-size: 17px;
+    width: 100%;
+
+}
+.rounded00{
+    border-radius: 5px;
+}
+
+/* glarry-section */
+.imagge img{
+   max-width:100% ;
+   width: 100%;
+   height: 170px;
+}
+.imagge{
+    position: relative;
+}
+.imagge-text{
+position: absolute;
+top: 0;
+left: 0;
+width: 0;
+height:0;
+background: rgba(0, 0, 0, 0.5);
+visibility: hidden;
+opacity: 0;
+border-radius: 5px;
+cursor: pointer;
+transition: left 0.5s, top 0.5s, top 0.5s, bottom 0.5s;
+}
+.imagge:hover .imagge-text{
+    width: 100%;
+    height: 100%;
+    visibility: visible;
+    opacity: 1;
+}
+.textt{
+    text-align: center;
+    color: #fff;
+    margin-top: 70px;
+    font-weight: 300;
+    
+}
+.textt p{
+display: inline;
+margin-left: 5px;
+}
+/* registration-section */
+.mtt{
+    margin: auto;
+    text-align: center;
+    
+}
+.ptt{
+    padding: 8px 150px !important;
+    font-size: 17px !important;
+}
+.px-17{
+font-size: 17 !important;
+}
+/* footer-section */
+.tdnone a{
+    text-decoration: none;
+}
+/* position-fixed */
+.p-f{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+.p-f ul{}
+.p-f ul li{
+    list-style: none;
+}
+.p-f ul li a{
+    display: inline-block;
+    background: #629fe4;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-decoration: none;
+    font-size: 35px;
+    color: #fff;
+    line-height: 60px;
+    text-align: center;
+}
+.mp:hover{
+    cursor: pointer ;
+}
